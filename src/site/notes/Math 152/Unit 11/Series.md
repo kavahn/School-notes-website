@@ -3,7 +3,10 @@
 ---
 
 # Unit X.x of [[Math 152/Math 152\|Math 152]]
-HELP
+	HELP 
+	aoeuaoeuaoeu
+	aou
+aoeuaouaoeuuiouiui
 # Series
 - #### Suppose ${a_{n}}$ is a sequence of numbers. An expression of the form
 	- $a_{1}+a_{2}+a_{3}\dots+a_{n}+\dots$
